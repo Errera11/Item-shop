@@ -1,0 +1,17 @@
+
+.wrapper {
+    border: 2px dashed black;
+    border-radius: 50%;
+    width: 5em;
+    height: 5em;
+    animation-name: rotation;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes rotation {
+    from {transform: rotate(0deg)}
+    to {transform: rotate(360deg)}
+}
+
+

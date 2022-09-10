@@ -1,0 +1,10 @@
+.createButton {
+    margin-left: 90%;
+    margin-top: 45%;
+    display: block;
+    position: fixed;
+    background: red;
+    padding: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+}

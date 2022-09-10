@@ -1,0 +1,40 @@
+.wrapper {
+    border: black solid 1px;
+    max-width: 35%;
+    margin: 10px;
+    min-height: 20em;
+    min-width: 30em;
+}
+
+.wrapperItems {
+    margin: 20px;
+}
+
+.image {
+    margin: auto;
+    display: block;
+    width: 200px;
+    height: 200px;
+
+}
+
+.title {
+    font-weight: bold;
+    font-size: 23px;
+    margin: 20px;
+}
+
+.description {
+    font-size: 16px;
+    margin: 20px;
+}
+
+.descriptionBtn {
+    display: flex;
+    justify-content: center;
+    background: coral;
+    padding: 8px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
